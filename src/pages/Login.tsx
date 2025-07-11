@@ -83,7 +83,7 @@ const Login: React.FC = () => {
         </form>
         
         <div className="login-footer">
-          <p>Default Employee: EMP001 / password123</p>
+          <p><em>Demo Credentials: EMP001 / password123</em></p>
         </div>
       </div>
     </div>
